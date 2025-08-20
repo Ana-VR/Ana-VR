@@ -1,9 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Ana-VR/Ana-VR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ana, a recent Data Science and Mathematics graduate.
 
-Here are some ideas to get you started:
+<!--&nbsp;![](https://komarev.com/ghpvc/?username=Ana-VR&color=brightgreen)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ana-VR&show_icons=true&rank_icon=github&locale=en" alt="ashishps1" /> -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-VR&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
+
+
+<!--**Ana-VR/Ana-VR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
