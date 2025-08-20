@@ -10,7 +10,7 @@ I'm Ana, a recent Data Science and Mathematics graduate.
 </p>
 
 <p align="right">
-    <img src="https://github.com/Ana-VR/Ana-VR/blob/main/images/snoopy.gif?raw=true" style="width:30px;height:30px;">
+    <img src="https://github.com/Ana-VR/Ana-VR/blob/main/images/typing_duck.gif?raw=true" style="width:30px;height:30px;">
     </p>
 
 <!--**Ana-VR/Ana-VR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
