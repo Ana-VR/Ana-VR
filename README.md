@@ -9,6 +9,9 @@ I'm Ana, a recent Data Science and Mathematics graduate.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-VR&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
 
+<p align="right">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGk4dmNjeG10MnVhNXd0cXplaHQ2ZWFyeWp6dHc2b3FlODh0YTJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hb6RoJcYEqkKlPoCj2/giphy.gif" style="width:30px;height:30px;">
+    </p>
 
 <!--**Ana-VR/Ana-VR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
